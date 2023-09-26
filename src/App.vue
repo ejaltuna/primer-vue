@@ -203,6 +203,7 @@ const add = () => {
   </div>
 </template>
 
+
 <style>
 .positivo {
   color: green;
